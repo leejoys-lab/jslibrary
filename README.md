@@ -5,7 +5,7 @@
 
 👀 나의 Demo 결과 미리보기 (잠시 기다리시면 화면에 나타나요)
 
-<img src ="textRoll.gif" height="100">
+<img src ="textRoll.gif" height="50">
 
 
 1. javascript 활용방법 [바로가기](https://elvanov.com/1592)
