@@ -1,3 +1,7 @@
+# CSS 수정 : 롤링 텍스트
+참고 : https://velog.io/@favorcho/%ED%9D%90%EB%A5%B4%EB%8A%94-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0
+
+---
 # JS 라이브러리 1
 ### 특정 단어만 색상을 적용시켜주는 자바스크립트 라이브러리 입니다.
 
